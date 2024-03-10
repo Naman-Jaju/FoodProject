@@ -104,7 +104,7 @@ function Header(){
 
 
   return(
-    <div className="fixed w-full">
+    <div className="block w-full">
       <div>
         <div className="flex flex-rows justify-between p-5 md:px-32 px-5 bg-white shadow-[0_3px_10px_rgba(0,0,0,0.2)]">
           <div class="flex flex-row items-center cursor-pointer">
